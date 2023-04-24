@@ -1,0 +1,2 @@
+# kapalamda
+gpt promt 
